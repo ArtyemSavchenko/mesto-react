@@ -40,15 +40,15 @@ self.__precacheManifest = [
     "url": "/static/media/Inter-Regular.3ac83020.woff"
   },
   {
-    "revision": "d0b121f3a9d3d88afdfd6902d31ee9a0",
-    "url": "/static/media/Inter-Black.d0b121f3.woff"
-  },
-  {
     "revision": "c0638bea87a05fdfa2bb3bba2efe54e4",
     "url": "/static/media/Inter-Medium.c0638bea.woff"
   },
   {
-    "revision": "654fe3917185be4e27caa12de7c13c1c",
+    "revision": "d0b121f3a9d3d88afdfd6902d31ee9a0",
+    "url": "/static/media/Inter-Black.d0b121f3.woff"
+  },
+  {
+    "revision": "9636a7073467e6cc6ad1c08a423dcbe0",
     "url": "/index.html"
   }
 ];
