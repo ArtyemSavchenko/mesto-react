@@ -9,9 +9,9 @@
   "runtime~main.js": "/static/js/runtime~main.ccae9838.js",
   "runtime~main.js.map": "/static/js/runtime~main.ccae9838.js.map",
   "static/media/logo.svg": "/static/media/logo.b3eb5597.svg",
-  "static/media/index.css": "/static/media/Inter-Medium.75db5319.woff2",
+  "static/media/index.css": "/static/media/Inter-Black.d0b121f3.woff",
   "static/css/main.1fe4fd14.chunk.css.map": "/static/css/main.1fe4fd14.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.934a94fd99f73bbfce1839f15c6095d2.js": "/precache-manifest.934a94fd99f73bbfce1839f15c6095d2.js",
+  "precache-manifest.a0979e011271bcd1717bbd0af90928cd.js": "/precache-manifest.a0979e011271bcd1717bbd0af90928cd.js",
   "service-worker.js": "/service-worker.js"
 }
