@@ -32,20 +32,20 @@ self.__precacheManifest = [
     "url": "/static/media/Inter-Medium.75db5319.woff2"
   },
   {
-    "revision": "661569afe57a38e1529a775a465da20b",
-    "url": "/static/media/Inter-Black.661569af.woff2"
+    "revision": "d0b121f3a9d3d88afdfd6902d31ee9a0",
+    "url": "/static/media/Inter-Black.d0b121f3.woff"
   },
   {
     "revision": "3ac83020fe53b617b79b5e2ad66764af",
     "url": "/static/media/Inter-Regular.3ac83020.woff"
   },
   {
-    "revision": "c0638bea87a05fdfa2bb3bba2efe54e4",
-    "url": "/static/media/Inter-Medium.c0638bea.woff"
+    "revision": "661569afe57a38e1529a775a465da20b",
+    "url": "/static/media/Inter-Black.661569af.woff2"
   },
   {
-    "revision": "d0b121f3a9d3d88afdfd6902d31ee9a0",
-    "url": "/static/media/Inter-Black.d0b121f3.woff"
+    "revision": "c0638bea87a05fdfa2bb3bba2efe54e4",
+    "url": "/static/media/Inter-Medium.c0638bea.woff"
   },
   {
     "revision": "9636a7073467e6cc6ad1c08a423dcbe0",
